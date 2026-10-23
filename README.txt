@@ -1,0 +1,1 @@
+I was unable to successfully upload the file because I had stored the original dataset in the project. I deleted it from the “data” folder. To run the program, you need to enter the corresponding content into the “gallery,” “query,” and “query_text” fields.

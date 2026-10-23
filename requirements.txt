@@ -1,0 +1,10 @@
+# CUDA build of torch/torchvision is installed from the PyTorch index:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+torch>=2.4
+torchvision>=0.19
+numpy>=1.26
+pillow>=10.0
+opencv-python>=4.9
+scikit-learn>=1.4
+tqdm>=4.66
+matplotlib>=3.8
